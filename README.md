@@ -15,6 +15,13 @@
 
 ---
 
+### 📖 Technical Articles & Case Studies
+
+- 🖥️ **[Building Cockpit: A Zero-Cloud macOS & iPad Productivity HUD](https://yorben.me/articles/building-cockpit-macos-hud.html)** — Peer-to-peer `Network.framework` sockets, menu-bar daemons, and SwiftUI architecture.
+- 🚂 **[Simulating 3D Logistics Dioramas on iPadOS with RealityKit](https://yorben.me/articles/simulating-3d-logistics-dioramas-realitykit.html)** — Procedural logistics simulation, Metal rendering, and mathematical progression modeling.
+
+---
+
 ### 🛠️ Core Toolkit
 
 - **Languages:** Swift, TypeScript, SQL, Python
