@@ -10,8 +10,8 @@
 | Project | Platform | Description | Architecture |
 | :--- | :--- | :--- | :--- |
 | **[Cockpit](https://github.com/Yvsleyen00941/Cockpit)** | macOS · iPadOS · iOS | Unified modular heads-up display consolidating Calendar, Music, Notion, and Mail into a single productivity hub. | Swift 5.10 · SwiftUI |
-| **[Cairn](https://github.com/Yvsleyen00941/Cairn)** | iOS 17+ | Minimalist multi-market portfolio tracker featuring automated Gemini AI daily intelligence briefings. | Swift · Gemini API |
 | **[Waybill](https://github.com/Yvsleyen00941/Waybill)** | iPadOS · iOS | Tactile 3D logistics idle diorama game featuring real-time physics dispatch and procedural routing. | RealityKit · SwiftUI |
+| **Cairn** *(Private Beta)* | iOS 17+ | Minimalist multi-market portfolio tracker featuring automated Gemini AI daily intelligence briefings. | Swift · Gemini API |
 
 ---
 
