@@ -9,6 +9,7 @@
 
 | Project | Platform | Description | Architecture |
 | :--- | :--- | :--- | :--- |
+| **[Rime](https://github.com/Yvsleyen00941/Rime)** | macOS | PDF reader for studying where only the page is left: everything around it freezes over into frosted ice. | AppKit · PDFKit · Core Animation |
 | **[Cockpit](https://github.com/Yvsleyen00941/Cockpit)** | macOS · iPadOS · iOS | Unified modular heads-up display consolidating Calendar, Music, Notion, and Mail into a single productivity hub. | Swift 5.10 · SwiftUI |
 | **[Waybill](https://github.com/Yvsleyen00941/Waybill)** | iPadOS · iOS | Tactile 3D logistics idle diorama game featuring real-time physics dispatch and procedural routing. | RealityKit · SwiftUI |
 | **Cairn** *(Private Beta)* | iOS 17+ | Minimalist multi-market portfolio tracker featuring automated Gemini AI daily intelligence briefings. | Swift · Gemini API |
