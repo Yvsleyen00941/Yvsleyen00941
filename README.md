@@ -1,18 +1,17 @@
 # Hi, I'm Yorben 👋
 
-**Independent Software & iOS Creator** · Student @ University of Antwerp  
+**Independent Software & Apple Platform Developer**  
 🌐 **Portfolio Website:** [yorben.me](https://yorben.me)
 
 ---
 
-### 🚀 Featured Systems & Apps
+### 🚀 Featured Public Systems & Apps
 
-| Project | Platform | Description | Architecture |
-| :--- | :--- | :--- | :--- |
-| **[Rime](https://github.com/Yvsleyen00941/Rime)** | macOS | PDF reader for studying where only the page is left: everything around it freezes over into frosted ice. | AppKit · PDFKit · Core Animation |
-| **[Cockpit](https://github.com/Yvsleyen00941/Cockpit)** | macOS · iPadOS · iOS | Unified modular heads-up display consolidating Calendar, Music, Notion, and Mail into a single productivity hub. | Swift 5.10 · SwiftUI |
-| **[Waybill](https://github.com/Yvsleyen00941/Waybill)** | iPadOS · iOS | Tactile 3D logistics idle diorama game featuring real-time physics dispatch and procedural routing. | RealityKit · SwiftUI |
-| **Cairn** *(Private Beta)* | iOS 17+ | Minimalist multi-market portfolio tracker featuring automated Gemini AI daily intelligence briefings. | Swift · Gemini API |
+| Project | Platform | Description | Architecture | Install |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Rime](https://github.com/Yvsleyen00941/Rime)** | macOS | Distraction-free PDF reader where everything outside the active page freezes into frosted ice. | AppKit · PDFKit · Core Image | `brew install --cask Yvsleyen00941/tap/rime` |
+| **[Cockpit](https://github.com/Yvsleyen00941/Cockpit)** | macOS · iPadOS · iOS | Unified modular heads-up display consolidating Calendar, Music, Notion, and Mail into a single productivity hub. | Swift · SwiftUI · AppKit | `brew install --cask Yvsleyen00941/tap/cockpit` |
+| **[Waybill](https://github.com/Yvsleyen00941/Waybill)** | iPadOS · iOS | Tactile 3D logistics idle diorama game featuring real-time physics dispatch and procedural routing. | RealityKit · SwiftUI · ARKit | Clone & Build |
 
 ---
 
@@ -25,9 +24,9 @@
 
 ### 🛠️ Core Toolkit
 
-- **Languages:** Swift, TypeScript, SQL, Python
-- **Frameworks:** SwiftUI, RealityKit, Combine, Next.js
-- **Services & AI:** Google Gemini AI, Supabase, Cloudflare, GitHub Actions
+- **Languages:** Swift, Objective-C, TypeScript, SQL, Python
+- **Frameworks:** SwiftUI, AppKit, RealityKit, Combine, CoreAnimation
+- **Tools & Ecosystem:** Homebrew, XcodeGen, Git, Cloudflare, GitHub Actions
 
 ---
 
